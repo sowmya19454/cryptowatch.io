@@ -10,7 +10,7 @@ import CoinPage from './Pages/CoinPage';
 import Homepage from './Pages/Homepage';
 import LoginPage from './Pages/LoginPage';
 import Register from './Pages/Register';
-// import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 function App() {
   
